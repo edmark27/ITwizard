@@ -1602,7 +1602,7 @@ pre code {
     width: 1170px;
   }
 }
-.container-fluid {
+.container {
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -6464,7 +6464,7 @@ button.close {
 .dl-horizontal dd:after,
 .container:before,
 .container:after,
-.container-fluid:before,
+.container:before,
 .container-fluid:after,
 .row:before,
 .row:after,
@@ -6496,7 +6496,7 @@ button.close {
 .clearfix:after,
 .dl-horizontal dd:after,
 .container:after,
-.container-fluid:after,
+.container:after,
 .row:after,
 .form-horizontal .form-group:after,
 .btn-toolbar:after,
